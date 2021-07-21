@@ -45,5 +45,5 @@ window.addEventListener("load", function() {
 		}
 		return lines;
 	};
-	splitLines(".split");
+	splitWords(".split");
 });
